@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Http",
+    "\\app\\Http\\Controllers",
+    "\\resources",
+    "\\resources\\views",
+    "\\resources\\views\\layout",
+    "\\resources\\views\\listafacturas",
+    "\\resources\\views\\pedidos",
+    "\\routes"
+  ],
+  "SelectedNode": "\\resources\\views\\factura\\factura.blade.php",
+  "PreviewInSolutionExplorer": false
+}
